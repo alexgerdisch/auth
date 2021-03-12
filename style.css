@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: grid;
+}
+
+h1 {
+    justify-self: center;
+    padding-top: 50px;
+    font-family:'Courier New', Courier, monospace;
+}
+
+div {
+    justify-self: center;
+}
